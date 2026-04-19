@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
 
+# Visual Studio
+.vs/
+*.user
+*.suo
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.ipch
+
 # Compiled Object files
 *.slo
 *.lo
